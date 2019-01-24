@@ -1,0 +1,8 @@
+Hello World
+This is a practice
+More than a drill
+The library contains 
+a number of interconnected 
+Java packages that implement 
+machine learning and artificial intelligence algorithms.
+Or rather than a hello to everyone
